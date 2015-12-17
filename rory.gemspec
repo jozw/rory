@@ -28,7 +28,7 @@ EOF
   s.licenses = ["MIT"]
   s.require_paths = ["lib"]
 
-  s.add_runtime_dependency 'rack', '~> 1.0'
+  s.add_runtime_dependency 'rack', '~> 1.6'
   s.add_runtime_dependency 'rack-contrib', '~> 1.2'
   s.add_runtime_dependency 'sequel', '~> 4.0'
   s.add_runtime_dependency 'thin', '~> 1.0'
